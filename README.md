@@ -9,3 +9,5 @@ This will serve as the hub for the NERDSwerve build. As a starting point this wi
 ### Project Plans
 - [ ] [BOM](https://docs.google.com/spreadsheets/d/17baLWgECbdMNOD5eA4aDsFMsT1Q5YP_pQEQcwW3GkZI/edit?usp=sharing)
 - [ ] [Fabrication Worksheet](https://docs.google.com/spreadsheets/d/1rTW7jyIiRqYBzNqfg0P3HPgJzFmc--nGnDMA0XahKEA/edit?usp=sharing)
+
+**Note:** This is a re-distribution of the NERD Swerve files referenced above. We did not create these. They are here for quick reference in our Kanban board.
